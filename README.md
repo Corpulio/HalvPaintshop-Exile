@@ -27,6 +27,8 @@ I (NRZ7) only makes a few modifications to enable full compatibility with exile,
 - Do **NOT use PBO Manager to pack server pbo**, will broke the pbo. Use BI tools or other alternative.
 - The save paint script is setted to work only in a safe zone with an open but lockable vehicle. If you want to change the condition see how works the config.cpp addactions.
 - If the instructions are working, i do not offer support.
+- The **textures are NOT included with the package**. All textures needs to be in all clients, inside the mission PBO or inside a local mod.
+- A good size for textures are 512x512, 1024x1024 or 2048x2048 only with .JPG or .PAA formats.
 
 
 ## License
