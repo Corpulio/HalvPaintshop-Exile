@@ -19,8 +19,14 @@ I (NRZ7) only makes a few modifications to enable full compatibility with exile,
 	2. Merge the config.cpp with your config.cpp to add "Save Paint" action
 	3. Put the lines from InitPlayerLocal.sqf in the top of your initPlayerLocal.sqf
 	4. Put the lines from description.ext to your description.ext
+	
+3. Configure 
+	1. Paste your textures to your mpmission or local modifications
+	2. Open /mpmission/addons/paintshop/settings.sqf
+	3. Add the file paths and full routes to your custom images
+	4. Add a building described in "_paintshopbuildings" on your map. Preefered into a Safe Zone
 
-3. If you use infistar, whitelist the ID 6666
+4. If you use infistar, whitelist the ID 6666
 
 
 ## Notes
