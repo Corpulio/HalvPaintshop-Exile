@@ -1,11 +1,11 @@
-#Vehicle & backpack Paintshop By Halv
+# Vehicle & backpack Paintshop By Halv
 
 
-##Original Sources
+## Original Sources
 https://github.com/Halvhjearne/paintshop
 
 
-##License
+## License
 Copyright (C) 2015 Halvhjearne
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
@@ -22,21 +22,23 @@ I (NRZ7) only makes a few modifications to enable full compatibility with exile,
 
 
 ## Install Instructions
-1. Pack to .PBO ExileHalvPaintshop_Server
+- 1. Pack to .PBO ExileHalvPaintshop_Server
 1. Do not use PBO Manager. Use official BI addon builder, mikero's or other tools.
 2. Put ExileHalvPaintshop_Server.pbo to @ExileServer/addons
-2. Merge mpmission folder with your current mission pbo
+
+- 2. Merge mpmission folder with your current mission pbo
 1. Paste addons/paintshop to addons/paintshop in your mission PBO
 2. Merge the config.cpp with your config.cpp to add "Save Paint" action
 3. Put the lines from InitPlayerLocal.sqf in the top of your initPlayerLocal.sqf
 4. Put the lines from description.ext to your description.ext
-3. If you use infistar, whitelist the ID 6666
+
+- 3. If you use infistar, whitelist the ID 6666
 
 
 ## Notes
-*Do NOT use PBO Manager to pack server pbo, will broke the pbo. Use BI tools or other alternative.
-*The save paint script is setted to work only in a safe zone with a open but lockable vehicles. If you want to change the condition see how works the config.cpp addactions.
-*If the instructions are working, i do not offer support.
+- *Do NOT use PBO Manager to pack server pbo, will broke the pbo. Use BI tools or other alternative.
+- *The save paint script is setted to work only in a safe zone with a open but lockable vehicles. If you want to change the condition see how works the config.cpp addactions.
+- *If the instructions are working, i do not offer support.
 
 
 
