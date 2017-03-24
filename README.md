@@ -37,12 +37,12 @@ I (NRZ7) only makes a few modifications to enable full compatibility with exile,
 
 ## Notes
 - Do **NOT use PBO Manager to pack server pbo**, will broke the pbo. Use BI tools or other alternative.
-- The save paint script is setted to work only in a safe zone with a open but lockable vehicles. If you want to change the condition see how works the config.cpp addactions.
+- The save paint script is setted to work only in a safe zone with an open but lockable vehicle. If you want to change the condition see how works the config.cpp addactions.
 - If the instructions are working, i do not offer support.
 
 
 
 ## Credits
 
-Halvjearne for Halv's Paintshop
-Mezo for give-me permission to use Claim Vehicles pluggin to learn how to interact with DB
+* Halvjearne for Halv's Paintshop
+* Mezo for give-me permission to use Claim Vehicles pluggin to learn how to interact with DB
