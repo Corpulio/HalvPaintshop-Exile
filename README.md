@@ -23,8 +23,8 @@ I (NRZ7) only makes a few modifications to enable full compatibility with exile,
 3. Configure 
 	1. Paste your textures to your mpmission or local modifications
 	2. Open /mpmission/addons/paintshop/settings.sqf
-	3. Add the file paths and full routes to your custom images
-	4. Add a building described in "_paintshopbuildings" on your map. Preefered into a Safe Zone
+	3. Edit the _texture array and add names and file paths to your custom images
+	4. Add somewhere in your map a building described in "_paintshopbuildings". Preefered into a Safe Zone.
 
 4. If you use infistar, whitelist the ID 6666
 
