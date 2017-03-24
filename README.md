@@ -18,7 +18,7 @@ Contact : halvhjearne@gmail.com
 
 
 ## Modifications
-I (NRZ7) only makes a few modifications to enable full compatibility with exile, changing some ethernally false conditions, commenting a few lines and making a system to save paint into Exile DB.
+I (NRZ7) only makes a few modifications to enable full compatibility with exile, changing some eternaly false conditions, commenting a few lines and making a system to save paint into Exile DB.
 
 
 ## Install Instructions
