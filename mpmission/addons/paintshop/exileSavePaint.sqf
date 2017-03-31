@@ -4,7 +4,7 @@ _vehicleObj = _object;
 _objectNetId = netId _object;
 _NR_usedTextures = getObjectTextures _vehicleObj;
 
-hint ["Paint Saved!"];
+hint "Paint Saved!";
 // hint format ["Vehicle textures = %1 \n \n ObjectNetId = %2 \n \n Object = %3", _NR_usedTextures, _ObjectNetId, _vehicleObj];
 
 
