@@ -5,6 +5,8 @@
 	Copyright (C) 2015  Halvhjearne > README.md
 */
 
+[] execVM "addons\paintshop\exileSavePaint_init.sqf"; // Save Paint with Exile Framework
+
 #include "settings.sqf";
 
 HALV_paintshop_opendialog = {
